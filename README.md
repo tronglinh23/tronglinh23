@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xon1l</h1>
 <h3 align="left">About me 💪</h3>
-<div>A passionate security from VN! I'm currently studying at VietNam National University (VNU), more specifically UET.</div>
+<div>A passionate security from VN! I'm enrolled in UET at Viet Nam National University (VNU), especially.</div>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
