@@ -9,8 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tronglinh23&label=Profile%20views&color=0e75b6&style=flat" alt="tronglinh23" /> </p>
 
 
-- 🌱 I’m currently learning **python, nodejs, express**
-
 - 🤝 I’m looking for help with **security subjects**
 
 
