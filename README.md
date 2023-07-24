@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xon1l</h1>
 <h3 align="left">About me 💪</h3>
-<div>A passionate security from VN! I'm enrolled in UET at Viet Nam National University (VNU), especially.</div>
+<div>A passionate security from VN! I'm enrolled in UET at Viet Nam National University (VNU).</div>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
@@ -9,7 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tronglinh23&label=Profile%20views&color=0e75b6&style=flat" alt="tronglinh23" /> </p>
 
 
-- 🤝 I’m looking for help with **security subjects**
 
 
 <h3 align="left">Languages and Tools:</h3>
